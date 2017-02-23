@@ -1,0 +1,25 @@
+// Shao, Zihao
+// CS211 Section 52B Homework 7B
+
+The output from the given program is:
+
+24  
+print the size of the whole array, which is “row”*“column”*(size of int type) = 3*2*4 = 24
+
+8 
+print the size of the pointer, 8 bytes 
+
+8 
+print the size of one row of the array, 2 columns and 8 bytes
+
+The address of b is: 0x7fffea7ef430 
+print the starting address of the array 
+
+The address of b+1 is: 0x7fffea7ef438 
+print the address of next row 8 bytes away
+
+The address of &b is: 0x7fffea7ef430 
+print the same address as original address of the array
+
+The address of &b+1 is: 0x7fffea7ef448 
+print the location after the entire array
